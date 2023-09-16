@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anjalisrivatsava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjalisrivatsava" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anjali-srivastava-650b12231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjalisrivatsava" height="30" width="40" /></a>
 <a href="https://instagram.com/eshasrivastava2412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshasrivastava2412" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@anjali_29993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anjali_29993" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ANJALI_29993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anjali_29993" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anjalisrivy6u4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anjalisrivy6u4" height="30" width="40" /></a>
 </p>
 
